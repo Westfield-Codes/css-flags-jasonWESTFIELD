@@ -15,10 +15,9 @@ a {
 }
 
 .square {
-    width:100%;
-    height:40%;
+    width: 100%;
+    height:112.5px;
 }
-
 
 
 .blue {
@@ -27,15 +26,15 @@ a {
 
 .white {
     background:#FFFFFF;
-    height:20%;
+    height:25%;
     width:100%;
 }
 
 .whitee {
     background:#FFFFFF;
-    width:15%;
-    height:250%;
-    margin: 0px 0px 0px 210px;
+    width:14%;
+    height:300px;
+    margin: 0px 0px 0px 220px;
     position:relative;
 }
 
@@ -44,10 +43,23 @@ a {
 }
  img {
     width:75px;
-    height:70px;
-    margin:110px 0px 0px 0px
+    height:75px;
+    margin:0px 0px 1px 0px
  }
 
+ .redd {
+    background:#CE1126;
+    width:250px;
+    height:114px;
+    float:right;
+ }
+
+ .bluee {
+    background:#002D62;
+    width:230px;
+    height:113px;
+    float:right;
+ }
 
 
 
