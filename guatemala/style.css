@@ -21,14 +21,12 @@ a {
 }
 
 .img {
-    height:30px;
-    width:30px;
+    height:70px;
+    width:70px;
 }
 .middle {
-    margin-left: 60px; 
-    margin-top: 110px;
     display:block;
-    position:absolute;
+    margin:100px auto;
 }
 
 .blue {
