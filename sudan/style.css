@@ -10,45 +10,31 @@ a {
 .flag {
 width:900px;
 height:600px;
-margin:auto;
-border:1px solid black;
-background-color:white;
+
 position: relative;
 }
 
-/* #stripe-black{
-z-index:2;
-position:absolute;
-margin-top:4%;
-width:900px;
-height:170px;
-background-color: black;
-} */
+
 
 #stripe-red{
 
-width:900px;
-height:183.3px;
+
 background-color: #D21034;
-position:absolute;
+
 
 }
 
 #stripe-white{
-position:absolute;
-width:900px;
-height:183.3px;
+
 background-color: #FFFFFF;
-bottom:0;
+
 
 }
 
 #stripe-black{
-position:absolute;
-width:900px;
-height:195px;
+
 background-color: #000000;
-margin-top:202.75px;
+
 }
 
 #triangle-green{
